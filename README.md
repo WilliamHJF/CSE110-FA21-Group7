@@ -1,6 +1,6 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a420bf5aee4643208df56c92df8d91fe)](https://www.codacy.com/gh/cse110-fa21-group7/cse110-fa21-group7/dashboard?utm_source=github.com&utm_medium=referral&utm_content=cse110-fa21-group7/cse110-fa21-group7&utm_campaign=Badge_Grade)
 
-# Group 7
+# CSE-110-Group7-Final-Project
 
 [Team Page](admin/team.md)
 
